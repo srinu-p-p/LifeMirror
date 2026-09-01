@@ -1,0 +1,6 @@
+{
+  "name": "LifeMirror - Addiction Awareness & Outreach Platform",
+  "description": "AI-powered addiction awareness and rehabilitation outreach platform simulating future outcomes and connecting eligible users to support via personalized WhatsApp video outreach.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
