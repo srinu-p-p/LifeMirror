@@ -33,7 +33,7 @@
 
 ---
 
-## ✨ Key Features
+## ✨ Key Features!
 
 - **⚡ 1-Click WhatsApp Direct Dispatcher (`wa.me`)**:
   - Dispatch personalized reflection messages with deep-linked video experiences directly to any phone number in one click.
